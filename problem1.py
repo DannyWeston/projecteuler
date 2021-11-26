@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # DannyWeston's Solutions for the Project Euler website
-# Problem (#)
+# Problem (1)
 
 import sys
 
